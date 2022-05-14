@@ -12,7 +12,7 @@ java {
 publishing {
     publications {
         create<MavenPublication>("maven") {
-            groupId = "com.github.alexander-alexander"
+            groupId = "com.github.alexander-kolmachikhin"
             artifactId = "validation"
             version = "1.0.0"
             from(components["java"])
