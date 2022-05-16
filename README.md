@@ -2,10 +2,8 @@
 
 ### Add the JitPack repository to your root build file 
 ```Kotlin
-allprojects {
-    repositories {
-        maven("https://jitpack.io")
-    }
+repositories {
+    maven("https://jitpack.io")
 }
 ```
 
