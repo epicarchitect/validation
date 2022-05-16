@@ -1,6 +1,6 @@
 # Validation
 
-### Add the JitPack repository to your root build file 
+### Add the JitPack repository
 ```Kotlin
 repositories {
     maven("https://jitpack.io")
