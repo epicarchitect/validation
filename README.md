@@ -1,4 +1,5 @@
 # Validation
+The essence of this library is that only implementations of validators can pass Correct and Incorrect object wrappers. This ensures that our data is always validated by the validator.
 
 ### Add the JitPack repository
 ```Kotlin
