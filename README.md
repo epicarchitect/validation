@@ -11,6 +11,6 @@ repositories {
 ### Add the dependency
 ```Kotlin
 dependencies {
-    implementation("com.github.alexander-kolmachikhin:validation:1.0.0")
+    implementation("com.github.epicarchitect:validation:1.0.0")
 }
 ```
